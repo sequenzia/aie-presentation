@@ -1,6 +1,6 @@
-# High-Level Presentation Outline
+# Beyond the Coding Agent: From Software Engineer to AI Engineer
 
-## From Software Engineer to AI Engineer
+## High-Level Presentation Outline
 
 **Session length:** 60 minutes
 

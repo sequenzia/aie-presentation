@@ -1,4 +1,6 @@
-# Presentation Description
+# Beyond the Coding Agent: From Software Engineer to AI Engineer
+
+## Presentation Description
 
 AI coding tools are changing how software gets built. However, using a coding agent does not make someone an AI engineer. It makes them an AI-enabled software engineer. AI engineering begins when the behavior of the system itself depends on AI.
 
